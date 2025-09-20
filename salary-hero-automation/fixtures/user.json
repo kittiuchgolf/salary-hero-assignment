@@ -1,0 +1,12 @@
+{
+  "email": "testuser12@gmail.com",
+  "password": "TestPassword123!",
+  "address": {
+    "country": "Thailand",
+    "name": "Test User",
+    "mobile": "0812345678",
+    "zip": "10110",
+    "address": "123 Test Street",
+    "city": "Bangkok"
+  }
+}
